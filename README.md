@@ -42,7 +42,7 @@ The linked repositories contain implementation details, setup instructions, and 
 
 - **Air University:** Bachelor's degree in Cybersecurity, September 2024-present; expected graduation 2028.
 - **NASTP:** Intern, July-August 2026; on-site in Rawalpindi, with IT infrastructure listed on LinkedIn.
-- **ITSOLERA PVT LTD:** SOC Analyst Intern; part-time, remote.
+- **ITSOLERA PVT LTD:** SOC Analyst Intern, February 12?April 12, 2026; part-time, remote.
 - **Cyber Academy:** SOC Intern, August-September 2025.
 - **TryHackMe:** Independent blue-team lab practice since March 2025, including SOC L1 work covering host logs, malicious documents and emails, and attack-chain reconstruction.
 
@@ -65,3 +65,11 @@ Hands-on work described in my resume includes Wazuh deployments, Windows Event I
 - **Broadway Pizza recognition:** Certificate of Recognition for website security and vulnerability-testing contributions, dated September 1, 2026. [View certificate](docs/assets/broadway-recognition.pdf).
 
 [Full experience, skills, training, and source notes](profile/linkedin-profile.md)
+
+## Documents & credentials
+
+- [SOC Level 1 completion](docs/assets/soc-level-1.pdf) — TryHackMe, May 2, 2026.
+- [Downtime completion](docs/assets/downtime.pdf) — TryHackMe, October 27, 2026.
+- [ITSolera SOC internship completion letter](docs/assets/itsolera-internship.pdf) — confirms February 12–April 12, 2026.
+- [Conti investigation lab](docs/assets/conti-investigation.pdf) — eight-page write-up.
+- [Volt Typhoon investigation lab](docs/assets/volt-typhoon-investigation.pdf) — 18-page write-up.

@@ -12,7 +12,7 @@ September 2024–present; expected graduation 2028 according to the supplied res
 | Organization | Role | Dates | Details visible on LinkedIn |
 | --- | --- | --- | --- |
 | National Aerospace Science & Technology Park (NASTP) | Intern | July–August 2026 | On-site, Rawalpindi; Information Technology Infrastructure |
-| ITSOLERA PVT LTD | SOC Analyst Intern | Date pending confirmation | Part-time, remote; Islamabad. The resume lists 2025; LinkedIn lists February–April 2026. |
+| ITSOLERA PVT LTD | SOC Analyst Intern | February 12–April 12, 2026 | Part-time, remote; Islamabad. Dates confirmed by the internship-completion letter issued April 21, 2026. |
 | Cyber Academy | SOC Analyst Intern | August 15–September 18, 2025 | Exact dates supplied in resume; supporting document linked on LinkedIn |
 
 ### Responsibilities described in the resume
@@ -53,6 +53,12 @@ These are described here as platform-based learning and lab experience, rather t
 
 **Broadway Pizza — Certificate of Recognition, September 1, 2026.** Presented to Talha Yaqoob for contributions to website security and vulnerability testing, including identifying and reporting security vulnerabilities. Signed by Syed Habib Shah, Head of IT. [View certificate](assets/broadway-recognition.pdf).
 
+**ITSolera — SOC Internship Completion Letter, issued April 21, 2026.** Confirms the placement from February 12 to April 12, 2026. [View letter](assets/itsolera-internship.pdf).
+
+**TryHackMe — SOC Level 1 Learning Path, completed May 2, 2026.** The certificate lists a course duration of 65 hours 29 minutes. [View certificate](assets/soc-level-1.pdf).
+
+**TryHackMe — Downtime, completed October 27, 2026.** Covers alert triage, threat hunting, forensics, and incident response. [View certificate](assets/downtime.pdf).
+
 ### Listed in the supplied resume
 
 - TryHackMe: SOC Level 1 Job Role Path (2026), Downtime — threat hunting/forensics/incident response (October 27, 2026), and Malware Analysis Room (2025).
@@ -60,7 +66,7 @@ These are described here as platform-based learning and lab experience, rather t
 - Security Blue Team: Introduction to Threat Hunting (2025).
 - Internship certificates: NASTP Alpha (2026), Cyber Academy (2025), and ITSolera (2025).
 
-These course/path completions and internship certificates are reported by the resume; their underlying certificates were not supplied here. LinkedIn's SOC L1 entry describes March–May 2025 lab work, while the resume lists a 2026 path completion; both are retained with their original scope rather than assuming identical dates.
+SOC Level 1, Downtime, and the ITSolera internship are additionally supported by documents reviewed from the user's downloads. The other listed training and internship certificates remain resume-reported. LinkedIn's SOC L1 entry describes March–May 2025 lab work, while the completion certificate is dated May 2, 2026; these are retained with their distinct scopes. The supplied resume's 2025 ITSolera date is superseded here by the completion letter.
 
 ## Projects
 
