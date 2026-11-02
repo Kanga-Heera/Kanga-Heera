@@ -2,7 +2,7 @@
 
 ### SOC & Incident Response
 
-My security portfolio focuses on two practical problems: deciding which detection rules need review, and turning exposed-secret findings into actionable triage.
+
 
 ## Featured projects
 
