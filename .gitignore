@@ -1,0 +1,8 @@
+# Website records and certificate assets are hosted separately.
+/docs/**
+!/docs/index.html
+!/docs/.nojekyll
+/profile/
+/writing/
+/writeups/soc-internship/
+/writeups/other/
