@@ -1,4 +1,4 @@
-﻿# Talha Yaqoob
+# Talha Yaqoob
 
 ### Cybersecurity · Detection Engineering · Security Automation
 
@@ -37,3 +37,31 @@ The linked repositories contain implementation details, setup instructions, and 
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/talha-yaqoob-76185b359/) · [GitHub](https://github.com/Kanga-Heera)
+
+## Experience & education
+
+- **Air University:** Bachelor's degree in Cybersecurity, September 2024-present; expected graduation 2028.
+- **NASTP:** Intern, July-August 2026; on-site in Rawalpindi, with IT infrastructure listed on LinkedIn.
+- **ITSOLERA PVT LTD:** SOC Analyst Intern; part-time, remote.
+- **Cyber Academy:** SOC Intern, August-September 2025.
+- **TryHackMe:** Independent blue-team lab practice since March 2025, including SOC L1 work covering host logs, malicious documents and emails, and attack-chain reconstruction.
+
+## Investigation & writing portfolio
+
+[Explore seven original write-ups and project posts](writing/README.md), including Detectmare, Volt Typhoon, Conti, Active Directory learning notes, and the thinking behind mechanic and LeakWatch.
+
+[Read my professional profile](profile/linkedin-profile.md) for the source-backed experience summary and skills listed on LinkedIn.
+
+## Portfolio website
+
+[Explore the interactive portfolio](https://kanga-heera.github.io/Kanga-Heera/) — selected projects, field notes, education, and experience.
+
+## SOC, malware analysis & recognition
+
+Hands-on work described in my resume includes Wazuh deployments, Windows Event ID and Sysmon investigations, alert triage, IOC identification, incident documentation, and malware analysis with IDA Pro and Ghidra.
+
+- **Wazuh / Windows Server lab:** manager-agent monitoring, event logs, File Integrity Monitoring, and alert workflows.
+- **Practical Malware Analysis:** 7+ labs covering reverse engineering, unpacking, persistence, and C2 behavior.
+- **Broadway Pizza recognition:** Certificate of Recognition for website security and vulnerability-testing contributions, dated September 1, 2026. [View certificate](docs/assets/broadway-recognition.pdf).
+
+[Full experience, skills, training, and source notes](profile/linkedin-profile.md)
